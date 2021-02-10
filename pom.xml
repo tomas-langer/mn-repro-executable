@@ -16,6 +16,7 @@
 
     <properties>
         <mainClass>io.micronaut.reproducers.execmethod.Main</mainClass>
+        <version.lib.micronaut>2.3.1</version.lib.micronaut>
     </properties>
 
     <dependencies>
