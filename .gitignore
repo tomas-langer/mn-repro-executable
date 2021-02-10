@@ -1,0 +1,15 @@
+hs_err_pid*
+target/
+.DS_Store
+.idea/
+*.iws
+*.ipr
+*.iml
+nbactions.xml
+nb-configuration.xml
+.settings
+.settings/
+.project
+.classpath
+*.swp
+*~
